@@ -17,8 +17,9 @@ Each turn, a player repeatedly rolls a dice until either a **1** is rolled or th
 - If a player chooses to **hold**, their turn total is added to their score, and it becomes the next player's turn.
 
 <br/>
+
 ## Demo
 
 <div align="center">
- <a href="aminecherkaoui.github.io/pig-game" target="_blank"><img src="https://raw.githubusercontent.com/AmineCherkaoui/pig-game/main/Pig-game.gif" alt="The Game GIF" /></a>
+ <a href="https://aminecherkaoui.github.io/pig-game"  target="_blank"><img src="https://raw.githubusercontent.com/AmineCherkaoui/pig-game/main/Pig-game.gif" alt="The Game GIF" /></a>
 </div>
