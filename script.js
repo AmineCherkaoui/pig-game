@@ -87,7 +87,7 @@ const hold = function () {
     diceEl.classList.add('hidden');
 
     // Max score to win
-    if (document.getElementById(`score--${player}`).textContent >= 20) {
+    if (document.getElementById(`score--${player}`).textContent >= 100) {
       // Add winner Class to player that win
       document
         .querySelector(`.player--${player}`)
