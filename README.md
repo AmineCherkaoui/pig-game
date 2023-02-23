@@ -19,7 +19,7 @@ Each turn, a player repeatedly rolls a dice until either a **1** is rolled or th
 <br/>
 
 ## Demo
-
+> Click on the image to try the game
 <div align="center">
  <a href="https://aminecherkaoui.github.io/pig-game"  target="_blank"><img src="https://raw.githubusercontent.com/AmineCherkaoui/pig-game/main/Pig-game.gif" alt="The Game GIF" /></a>
 </div>
