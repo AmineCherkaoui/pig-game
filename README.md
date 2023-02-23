@@ -18,5 +18,5 @@ Each turn, a player repeatedly rolls a dice until either a **1** is rolled or th
 
 <br/>
 <div align="center">
-  <img src="https://github.com/AmineCherkaoui/pig-game/pig-game.gif" alt="The Game GIF" />
+  <img src="https://raw.githubusercontent.com/AmineCherkaoui/pig-game/main/Pig-game.gif" alt="The Game GIF" />
 </div>
